@@ -1,0 +1,28 @@
+<annotation>
+  <folder>images</folder>
+  <filename>Sequence20_1093.jpeg</filename>
+  <path>
+    E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\Sequence20_1093.jpeg
+  </path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>257</xmin>
+      <ymin>38</ymin>
+      <xmax>305</xmax>
+      <ymax>117</ymax>
+    </bndbox>
+  </object>
+</annotation>
